@@ -1,0 +1,51 @@
+.test{
+    background-color: rgb(206, 218, 218);
+}
+.title-Stylesheet1{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  background-color: white;
+  
+}
+.menu1{
+    border: 5px solid black;
+    background-color: black;
+    
+}
+
+.menu-list{
+    display: inline;
+}
+
+.menu-a{
+    color:white;
+}
+
+.menu-a:hover{
+    color:red;
+}
+
+
+*{
+    text-align: center;
+}
+
+
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.Side-Bar{
+    border: 2px double black;
+}
+
+.pic{
+    color: rgb(255, 255, 255);
+    background-image: url(https://images.pexels.com/photos/66869/green-leaf-natural-wallpaper-royalty-free-66869.jpeg);
+}
+
+
+
